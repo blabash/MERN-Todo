@@ -97,7 +97,7 @@ export default class CreateTodo extends Component {
                             <label className="form-check-label">High</label>
                         </div>
                     </div>
-                    <button type="submit" className="btn btn-primary">Submit</button>
+                    <button type="submit" className="btn btn-primary">Create Todo</button>
                 </form>
             </div>
         )
